@@ -1,0 +1,23 @@
+{
+  "name": "wambamdamazon",
+  "version": "1.0.0",
+  "description": "This CLI Version of Amazon will leave you saying Wam Bam Damn, I wish it had a UI...",
+  "main": "wamBamDamCustomer.js",
+  "scripts": {
+    "test": "wamBamDamCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TBD"
+  },
+  "keywords": [
+    "javascript",
+    "mysql"
+  ],
+  "author": "devcwilkey@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.1",
+    "mysql": "^2.17.1"
+  }
+}
